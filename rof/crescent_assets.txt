@@ -1,4 +1,0 @@
-Tradeskill_objects.eqg
-crescent_tradeskill_obj.eqg
-dest_pdm.eqg
-dest_wallofdead.eqg
