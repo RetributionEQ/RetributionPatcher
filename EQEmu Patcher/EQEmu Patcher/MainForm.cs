@@ -321,8 +321,6 @@ namespace EQEmu_Patcher
                     case "26DC13388395A20B73E1B5A08415B0F8": //Legacy of Norrath Custom RoF2 Client https://github.com/xackery/eqemupatcher/issues/16
                     case "3B44C6CD42313CB80C323647BCB296EF": //https://github.com/xackery/eqemupatcher/issues/15
                     case "513FDC2B5CC63898D7962F0985D5C207": //aslr checksum removed
-                    case "389709EC0E456C3DAE881A61218AAB3F": // derp
-
                         currentVersion = VersionTypes.Broken_Mirror;
                         splashLogo.Image = Properties.Resources.brokenmirror;
                         break;
