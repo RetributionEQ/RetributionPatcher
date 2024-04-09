@@ -44,6 +44,5 @@
 3,0,TFFFC,rpt.eqg,Loading Characters
 3,0,TFFFC,jkr_chr,Loading Characters
 3,0,TFFFC,mmy_chr,Loading Characters
-3,0,TFFFC,erudnint_chr,Loading Erudite Ghosts
 4,0,TFFFC,Global2_chr,Loading Global Items and Equipment
 4,0,TFFFC,Global3_chr,Loading Global Items and Equipment
