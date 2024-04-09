@@ -2,3 +2,4 @@ nektulos.eqg
 lavastorm.eqg
 bazaar.eqg
 eqemupatcher.exe
+dinput8.dll
