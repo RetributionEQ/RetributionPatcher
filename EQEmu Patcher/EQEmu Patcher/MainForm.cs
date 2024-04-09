@@ -277,6 +277,7 @@ namespace EQEmu_Patcher
 
         private void detectClientVersion()
         {
+            return; // Just disable this for now
             try
             {
 
@@ -286,7 +287,7 @@ namespace EQEmu_Patcher
                     MessageBox.Show("Please run this patcher in your Everquest directory.");
                     this.Close();
                     return;
-                }
+                }                
                 switch (hash)
                 {
                     case "85218FC053D8B367F2B704BAC5E30ACC":
