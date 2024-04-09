@@ -309,6 +309,8 @@ namespace EQEmu_Patcher
                         break;
                     case "240C80800112ADA825C146D7349CE85B":
                     case "A057A23F030BAA1C4910323B131407105ACAD14D": //This is a custom ROF2 from a torrent download
+                    case "178C9C8FDDDF8F78B6B9142D025FE059": // Custom THJ
+                    case "6574AC667D4C522D21A47F4D00920CC2": //LAA
                     case "389709EC0E456C3DAE881A61218AAB3F": // wtf is this?
                         currentVersion = VersionTypes.Rain_Of_Fear_2;
                         splashLogo.Image = Properties.Resources.rof;
@@ -319,9 +321,6 @@ namespace EQEmu_Patcher
                     case "26DC13388395A20B73E1B5A08415B0F8": //Legacy of Norrath Custom RoF2 Client https://github.com/xackery/eqemupatcher/issues/16
                     case "3B44C6CD42313CB80C323647BCB296EF": //https://github.com/xackery/eqemupatcher/issues/15
                     case "513FDC2B5CC63898D7962F0985D5C207": //aslr checksum removed
-                    case "07F5A8E2B53D89412CD9FAB18151F09D": //64-bit item links baked in
-                    case "178C9C8FDDDF8F78B6B9142D025FE059": // Custom THJ
-                    case "6574AC667D4C522D21A47F4D00920CC2": //LAA
                         currentVersion = VersionTypes.Broken_Mirror;
                         splashLogo.Image = Properties.Resources.brokenmirror;
                         break;
