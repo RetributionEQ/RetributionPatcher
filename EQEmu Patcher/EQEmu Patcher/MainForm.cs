@@ -289,7 +289,7 @@ namespace EQEmu_Patcher
                 }
                 switch (hash)
                 {
-                    case "07F5A8E2B53D89412CD9FAB18151F09D": // 64-bit item links baked in
+                    case "36968E793EBFDB3A1A1C55C7FF1D7C1A": // 64-bit item links baked in
                     case "178C9C8FDDDF8F78B6B9142D025FE059": // Custom THJ
                     case "6574AC667D4C522D21A47F4D00920CC2": // LAA
                         currentVersion = VersionTypes.Rain_Of_Fear_2;
